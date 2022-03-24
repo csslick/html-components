@@ -13,7 +13,7 @@ function header() {
 }
 
 const headerName = '.header-component'; // class 요소명
-document.querySelector(headerName).innerHTML = footer();
+document.querySelector(headerName).innerHTML = header();
 ```
 
 ### html 
