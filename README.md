@@ -12,7 +12,7 @@ function header() {
   `
 }
 
-const headerName = '.headerr-component'; // class 요소명
+const headerName = '.header-component'; // class 요소명
 document.querySelector(headerName).innerHTML = footer();
 ```
 
