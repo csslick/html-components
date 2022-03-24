@@ -6,14 +6,14 @@ demo: https://csslick.github.io/html-components/
 
 ### Javascript Component
 ```
-function footer() {
+function header() {
   return `
-    <h1>footer</h1>
+    header HTML here...
   `
 }
 
-const footerName = '.footer-component'; // class 요소명
-document.querySelector(footerName).innerHTML = footer();
+const headerName = '.headerr-component'; // class 요소명
+document.querySelector(headerName).innerHTML = footer();
 ```
 
 ### html 
