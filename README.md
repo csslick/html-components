@@ -1,6 +1,6 @@
 # html-components
-create html component with javascript
-- demo: https://csslick.github.io/html-components/
+create html component with javascript  
+demo: https://csslick.github.io/html-components/
 
 ## How to use
 
